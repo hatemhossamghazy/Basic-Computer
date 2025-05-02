@@ -1,8 +1,15 @@
 # Basic-Computer
 # Basic Computer (M. Morris Mano) - Verilog Implementation
 # Project Overview
-This project is a Verilog-based hardware implementation of the Basic Computer architecture from the textbook "Digital Design and Computer Architecture" by M. Morris Mano. It faithfully models the datapath, control unit, memory system, and I/O instructions as described in the book, and simulates instruction execution cycle-by-cycle.
-
+- What is the Mano Basic Computer?
+The Mano Basic Computer is a simplified educational model of a computer, designed by M. Morris Mano in his book “Computer System Architecture”.
+It's made to teach how a basic computer works at the hardware level — step by step.
+- Main Idea:
+it shows how a computer:
+Stores instructions
+Processes data
+Executes commands
+All using very simple components — perfect for learning how real computers work inside.
 # Architecture Features
 * 16-bit Word Length
 
