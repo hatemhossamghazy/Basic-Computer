@@ -4,12 +4,18 @@
 - What is the Mano Basic Computer?
 The Mano Basic Computer is a simplified educational model of a computer, designed by M. Morris Mano in his book “Computer System Architecture”.
 It's made to teach how a basic computer works at the hardware level — step by step.
-- Main Idea:
-it shows how a computer:
+### Main Idea:
+it shows how a computer 
 Stores instructions
 Processes data
 Executes commands
 All using very simple components — perfect for learning how real computers work inside.
+### Instruction Cycle (How instructions are executed):
+- Fetch – Get the instruction from memory.
+
+- Decode – Understand what the instruction means.
+
+- Execute – Carry out the instruction (like add, store, etc)
 # Architecture Features
 * 16-bit Word Length
 
