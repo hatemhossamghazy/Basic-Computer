@@ -16,12 +16,12 @@ This project is a Verilog-based hardware implementation of the Basic Computer ar
 
 * sequence counter: Implements micro-operations T0–T15 // the maximum size for instruction is 15 but this also in mano's specifications and we scale this and reduce it for simplicity
 
-* Instruction Set:
+### Instruction Set:
 
 + Memory-Reference Instructions (AND, ADD, LDA, STA, BUN, etc.)
 + Register-Reference Instructions (CLA, INC, HLT, etc.)
-### I/O Instructions (INP, OUT)
-\\ I/O regs: 8-bit INPR and OUTR
++ I/O Instructions (INP, OUT)
++ I/O regs: 8-bit INPR and OUTR
 
 * it also based on a cructial concept which is the timing and control structure which means that each microoperation has it is corresponding execuation
 * The link of video : https://drive.google.com/file/d/1fRkIO8felcxEaqPWjACFy9cQKGDL5XA_/view
