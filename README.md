@@ -24,3 +24,4 @@ This project is a Verilog-based hardware implementation of the Basic Computer ar
 - I/O regs: 8-bit INPR and OUTR
 
 * it also based on a cructial concept which is the timing and control structure which means that each microoperation has it is corresponding execuation
+* The link of video : https://drive.google.com/file/d/1fRkIO8felcxEaqPWjACFy9cQKGDL5XA_/view
